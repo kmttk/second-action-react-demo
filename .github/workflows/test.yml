@@ -1,6 +1,6 @@
 name: Test Project
 on:
-  push
+  push:
     branches:
       - 'main'
 jobs:
